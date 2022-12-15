@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-
+//ewqewqr/rwqrwq
 driver = webdriver.Chrome()
 driver.get(‘https://www.google.ru/’)
 e = driver.find_element(‘xpath’, ‘//input[@class=”gLFyf gsfi”]’)
